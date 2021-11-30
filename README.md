@@ -64,7 +64,7 @@ v1.0 | 04/12/2018 | CTS-DI-Database-Integration| Created
 v1.0 | 04/12/2018 | CTS-GS-Generate-Schedule| Created
 v1.0 | 04/12/2018 | CTS-GSC-Generate-Schedule-Components| Created
 v1.0 | 04/12/2018 | CTS-AUDS-Add-Update-Delete-Schedule| Created
-v2.0 | 30/11/2020 | CTS-Manage-Schedules | updated
+v2.0 | 30/11/2021 | CTS-Manage-Schedules | updated
 
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
