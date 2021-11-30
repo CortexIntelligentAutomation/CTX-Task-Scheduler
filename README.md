@@ -37,13 +37,16 @@ The CTX-Task-Scheduler module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Task-Scheduler module requires the following files:
-* [CTX-Task-Scheduler Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/releases/download/v1.0/CTX-Task-Scheduler.studiopkg)
+* [CTX-Task-Scheduler Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/releases/download/v2.0/CTX-Task-Scheduler.studiopkg)
+* [ts-generic-config.txt](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/releases/download/v2.0/ts-generic-config.txt)
 
 ## Support and Warranty 
 This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/CTX-Task-Scheduler%20-%20Deployment%20Plan.pdf).
+Scheduing a flow at startup is developed in Cortex 7.1 version. Refer to above deployment plan for steps to enable this feature.
+The KB installation guidelines are available in : (https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/KB-Manual-Update-Instructions.pdf).
 
 ## How to use
 A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/CTX-Task-Scheduler%20-%20User%20Guide.pdf ). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
@@ -61,11 +64,12 @@ v1.0 | 04/12/2018 | CTS-DI-Database-Integration| Created
 v1.0 | 04/12/2018 | CTS-GS-Generate-Schedule| Created
 v1.0 | 04/12/2018 | CTS-GSC-Generate-Schedule-Components| Created
 v1.0 | 04/12/2018 | CTS-AUDS-Add-Update-Delete-Schedule| Created
+v2.0 | 30/11/2020 | CTS-Manage-Schedules | updated
 
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
-Copyright 2018 Cortex Limited
+Copyright 2021 Cortex Limited
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
