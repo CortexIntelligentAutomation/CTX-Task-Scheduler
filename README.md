@@ -46,7 +46,7 @@ This module is supplied as a template that you can amend and extend to fit your 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/CTX-Task-Scheduler%20-%20Deployment%20Plan.pdf).
 Scheduing a flow at startup is developed in Cortex 7.1 version. Refer to above deployment plan for steps to enable this feature.
-The KB installation guidelines are available in : (https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/KB-Manual-Update-Instructions.pdf).
+
 
 ## How to use
 A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/CTX-Task-Scheduler%20-%20User%20Guide.pdf ). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
