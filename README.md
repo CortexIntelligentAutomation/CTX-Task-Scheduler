@@ -37,8 +37,8 @@ The CTX-Task-Scheduler module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Task-Scheduler module requires the following files:
-* [CTX-Task-Scheduler Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/releases/download/v2.0/CTX-Task-Scheduler.studiopkg)
-* [ts-generic-config.txt](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/releases/download/v2.0/ts-generic-config.txt)
+* [CTX-Task-Scheduler Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/CTX-Task-Scheduler.studiopkg)
+* [ts-generic-config.txt](https://github.com/CortexIntelligentAutomation/CTX-Task-Scheduler/blob/master/ts-generic-config.txt)
 
 ## Support and Warranty 
 This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
