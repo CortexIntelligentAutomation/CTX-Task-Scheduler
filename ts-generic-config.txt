@@ -1,0 +1,8 @@
+Show_Db_Server_Selection ="false"
+PSDomain="AD Domain for the PSUsername"
+PSUsername="Service Account User name for Powershell block"
+PSPassword="Service Account Password for above user"
+ADUserName="Service Account User name for AD Read Access"
+ADPassword="Service Account Password for above user"
+ADControl_Using_GatewayStudio_Authorisation = "true"
+On_Startup_Schedule_Option ="false"
